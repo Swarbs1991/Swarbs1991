@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Swarbs1991
-- 👀 I’m interested in ... Gaming, Coding, Cricket and the occaissonal bit of exercise
-- 🌱 I’m currently learning ... To use git for version control whilst building a new portfolio site
-- 💞️ I’m looking to collaborate on ... Ideas for UI and UX
+- 👋 Hi, I’m Joe Swarbrick - I'm currently a Junior Web Developer at Black with Darwen Borough Council.
+- 👀 I’m interested in ... Gaming, Coding, Cricket and the occaissonal bit of exercise.
+- 🌱 I’m currently learning ... To use git for collaboration; trying to encorporate it into more day-to-day uses in my current job as well as
+- 💞️ I’m looking to collaborate on ... Pretty much anything! My main focuses for leaning and personal development are Azure, IAC tools like Docker and also looking for a chance to do more with .net framework, leanr C## perhaps...
 - 📫 How to reach me ... git@swarbs.co.uk
 
 <!---
