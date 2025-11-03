@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe Swarbrick - I'm currently a Junior Web Developer at Blackburn with Darwen Borough Council.
 - 👀 I’m interested in ... Gaming, Coding, Cricket and the occaissonal bit of exercise.
-- 🌱 I’m currently learning ... To use git for collaboration; trying to encorporate it into more day-to-day uses in my current job to keep better track of versioning and also help implement CI/CD pipelines.
+- 🌱 I’m currently learning ... Everything! I'm typically a frontend developer and love a bit of JavaScript, but will always take the chance to brush up n HTML and CSS knowledge as well as any any opportunities to learn more about Drupal.
 - 💞️ I’m looking to collaborate on ... Pretty much anything! My main focuses for leaning and personal development are Azure, IAC tools like Docker and also looking for a chance to do more with REACT and NextJS, .NET Core and Entity Frame work and get better at coding PHP and C#
 
 <!---
